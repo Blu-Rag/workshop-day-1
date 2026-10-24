@@ -5,7 +5,7 @@
 Replace `<repository-url>` with the URL for this repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Blu-Rag/workshop-day-1
 cd workshop-day-1
 ```
 
