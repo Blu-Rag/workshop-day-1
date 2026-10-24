@@ -1,0 +1,45 @@
+# Core
+python-dotenv
+ipython
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-text-splitters
+langchain-openrouter
+langchain-chroma
+langchain-huggingface
+langchain-groq
+langchain-google-genai
+langchain-mistralai
+langchain-docling
+langchain_tavily
+
+# Providers / Models
+groq
+google-generativeai
+mistralai
+transformers
+huggingface_hub
+sentence-transformers
+accelerate
+tiktoken
+
+# Vector DB / RAG
+chromadb
+faiss-cpu
+
+# Document Loading / Parsing
+pypdf
+docling
+
+# Web Apps
+streamlit
+
+# Utilities
+requests
+pandas
+numpy
+ipykernel
